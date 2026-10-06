@@ -1,5 +1,4 @@
 # Practica-1
-Me va a matar esta práctica
-mi super cambio local
+Imaginate ser el mejor de la clase
 Cambio local
 Cambio local
